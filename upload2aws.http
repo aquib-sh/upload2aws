@@ -1,0 +1,6 @@
+@upload2aws_HostAddress = http://localhost:5268
+
+GET {{upload2aws_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
